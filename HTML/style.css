@@ -1,0 +1,8 @@
+p {
+    background-color: blue;
+    color: white;
+    text-align: justify;
+}
+input[type:"text"]{
+    background-color: orange;
+}
